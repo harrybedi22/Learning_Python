@@ -1,7 +1,5 @@
+"""Updated Code"""
 """Max of Two Number"""
-
-from re import L
-
 
 def max_of_two_numbers(n1,n2):
     """Max of Two Numbers"""
